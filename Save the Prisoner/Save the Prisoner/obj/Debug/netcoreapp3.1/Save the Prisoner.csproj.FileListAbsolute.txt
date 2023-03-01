@@ -1,0 +1,14 @@
+C:\Users\Murad\Desktop\Tasks c#\Save the Prisoner\Save the Prisoner\bin\Debug\netcoreapp3.1\Save the Prisoner.exe
+C:\Users\Murad\Desktop\Tasks c#\Save the Prisoner\Save the Prisoner\bin\Debug\netcoreapp3.1\Save the Prisoner.deps.json
+C:\Users\Murad\Desktop\Tasks c#\Save the Prisoner\Save the Prisoner\bin\Debug\netcoreapp3.1\Save the Prisoner.runtimeconfig.json
+C:\Users\Murad\Desktop\Tasks c#\Save the Prisoner\Save the Prisoner\bin\Debug\netcoreapp3.1\Save the Prisoner.runtimeconfig.dev.json
+C:\Users\Murad\Desktop\Tasks c#\Save the Prisoner\Save the Prisoner\bin\Debug\netcoreapp3.1\Save the Prisoner.dll
+C:\Users\Murad\Desktop\Tasks c#\Save the Prisoner\Save the Prisoner\bin\Debug\netcoreapp3.1\Save the Prisoner.pdb
+C:\Users\Murad\Desktop\Tasks c#\Save the Prisoner\Save the Prisoner\obj\Debug\netcoreapp3.1\Save the Prisoner.csproj.AssemblyReference.cache
+C:\Users\Murad\Desktop\Tasks c#\Save the Prisoner\Save the Prisoner\obj\Debug\netcoreapp3.1\Save the Prisoner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Murad\Desktop\Tasks c#\Save the Prisoner\Save the Prisoner\obj\Debug\netcoreapp3.1\Save the Prisoner.AssemblyInfoInputs.cache
+C:\Users\Murad\Desktop\Tasks c#\Save the Prisoner\Save the Prisoner\obj\Debug\netcoreapp3.1\Save the Prisoner.AssemblyInfo.cs
+C:\Users\Murad\Desktop\Tasks c#\Save the Prisoner\Save the Prisoner\obj\Debug\netcoreapp3.1\Save the Prisoner.csproj.CoreCompileInputs.cache
+C:\Users\Murad\Desktop\Tasks c#\Save the Prisoner\Save the Prisoner\obj\Debug\netcoreapp3.1\Save the Prisoner.dll
+C:\Users\Murad\Desktop\Tasks c#\Save the Prisoner\Save the Prisoner\obj\Debug\netcoreapp3.1\Save the Prisoner.pdb
+C:\Users\Murad\Desktop\Tasks c#\Save the Prisoner\Save the Prisoner\obj\Debug\netcoreapp3.1\Save the Prisoner.genruntimeconfig.cache

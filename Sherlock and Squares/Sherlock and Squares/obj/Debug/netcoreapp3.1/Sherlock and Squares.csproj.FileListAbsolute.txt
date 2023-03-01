@@ -1,0 +1,14 @@
+C:\Users\Murad\Desktop\Tasks c#\Sherlock and Squares\Sherlock and Squares\bin\Debug\netcoreapp3.1\Sherlock and Squares.exe
+C:\Users\Murad\Desktop\Tasks c#\Sherlock and Squares\Sherlock and Squares\bin\Debug\netcoreapp3.1\Sherlock and Squares.deps.json
+C:\Users\Murad\Desktop\Tasks c#\Sherlock and Squares\Sherlock and Squares\bin\Debug\netcoreapp3.1\Sherlock and Squares.runtimeconfig.json
+C:\Users\Murad\Desktop\Tasks c#\Sherlock and Squares\Sherlock and Squares\bin\Debug\netcoreapp3.1\Sherlock and Squares.runtimeconfig.dev.json
+C:\Users\Murad\Desktop\Tasks c#\Sherlock and Squares\Sherlock and Squares\bin\Debug\netcoreapp3.1\Sherlock and Squares.dll
+C:\Users\Murad\Desktop\Tasks c#\Sherlock and Squares\Sherlock and Squares\bin\Debug\netcoreapp3.1\Sherlock and Squares.pdb
+C:\Users\Murad\Desktop\Tasks c#\Sherlock and Squares\Sherlock and Squares\obj\Debug\netcoreapp3.1\Sherlock and Squares.csproj.AssemblyReference.cache
+C:\Users\Murad\Desktop\Tasks c#\Sherlock and Squares\Sherlock and Squares\obj\Debug\netcoreapp3.1\Sherlock and Squares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Murad\Desktop\Tasks c#\Sherlock and Squares\Sherlock and Squares\obj\Debug\netcoreapp3.1\Sherlock and Squares.AssemblyInfoInputs.cache
+C:\Users\Murad\Desktop\Tasks c#\Sherlock and Squares\Sherlock and Squares\obj\Debug\netcoreapp3.1\Sherlock and Squares.AssemblyInfo.cs
+C:\Users\Murad\Desktop\Tasks c#\Sherlock and Squares\Sherlock and Squares\obj\Debug\netcoreapp3.1\Sherlock and Squares.csproj.CoreCompileInputs.cache
+C:\Users\Murad\Desktop\Tasks c#\Sherlock and Squares\Sherlock and Squares\obj\Debug\netcoreapp3.1\Sherlock and Squares.dll
+C:\Users\Murad\Desktop\Tasks c#\Sherlock and Squares\Sherlock and Squares\obj\Debug\netcoreapp3.1\Sherlock and Squares.pdb
+C:\Users\Murad\Desktop\Tasks c#\Sherlock and Squares\Sherlock and Squares\obj\Debug\netcoreapp3.1\Sherlock and Squares.genruntimeconfig.cache

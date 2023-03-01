@@ -1,0 +1,14 @@
+C:\Users\Murad\Desktop\Tasks c#\Climbing the Leaderboard\Climbing the Leaderboard\obj\Debug\netcoreapp3.1\Climbing the Leaderboard.csproj.AssemblyReference.cache
+C:\Users\Murad\Desktop\Tasks c#\Climbing the Leaderboard\Climbing the Leaderboard\obj\Debug\netcoreapp3.1\Climbing the Leaderboard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Murad\Desktop\Tasks c#\Climbing the Leaderboard\Climbing the Leaderboard\obj\Debug\netcoreapp3.1\Climbing the Leaderboard.AssemblyInfoInputs.cache
+C:\Users\Murad\Desktop\Tasks c#\Climbing the Leaderboard\Climbing the Leaderboard\obj\Debug\netcoreapp3.1\Climbing the Leaderboard.AssemblyInfo.cs
+C:\Users\Murad\Desktop\Tasks c#\Climbing the Leaderboard\Climbing the Leaderboard\obj\Debug\netcoreapp3.1\Climbing the Leaderboard.csproj.CoreCompileInputs.cache
+C:\Users\Murad\Desktop\Tasks c#\Climbing the Leaderboard\Climbing the Leaderboard\bin\Debug\netcoreapp3.1\Climbing the Leaderboard.exe
+C:\Users\Murad\Desktop\Tasks c#\Climbing the Leaderboard\Climbing the Leaderboard\bin\Debug\netcoreapp3.1\Climbing the Leaderboard.deps.json
+C:\Users\Murad\Desktop\Tasks c#\Climbing the Leaderboard\Climbing the Leaderboard\bin\Debug\netcoreapp3.1\Climbing the Leaderboard.runtimeconfig.json
+C:\Users\Murad\Desktop\Tasks c#\Climbing the Leaderboard\Climbing the Leaderboard\bin\Debug\netcoreapp3.1\Climbing the Leaderboard.runtimeconfig.dev.json
+C:\Users\Murad\Desktop\Tasks c#\Climbing the Leaderboard\Climbing the Leaderboard\bin\Debug\netcoreapp3.1\Climbing the Leaderboard.dll
+C:\Users\Murad\Desktop\Tasks c#\Climbing the Leaderboard\Climbing the Leaderboard\bin\Debug\netcoreapp3.1\Climbing the Leaderboard.pdb
+C:\Users\Murad\Desktop\Tasks c#\Climbing the Leaderboard\Climbing the Leaderboard\obj\Debug\netcoreapp3.1\Climbing the Leaderboard.dll
+C:\Users\Murad\Desktop\Tasks c#\Climbing the Leaderboard\Climbing the Leaderboard\obj\Debug\netcoreapp3.1\Climbing the Leaderboard.pdb
+C:\Users\Murad\Desktop\Tasks c#\Climbing the Leaderboard\Climbing the Leaderboard\obj\Debug\netcoreapp3.1\Climbing the Leaderboard.genruntimeconfig.cache

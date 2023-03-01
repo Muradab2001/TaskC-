@@ -1,0 +1,14 @@
+C:\Users\Murad\Desktop\Tasks c#\grading students\grading students\bin\Debug\netcoreapp3.1\grading students.exe
+C:\Users\Murad\Desktop\Tasks c#\grading students\grading students\bin\Debug\netcoreapp3.1\grading students.deps.json
+C:\Users\Murad\Desktop\Tasks c#\grading students\grading students\bin\Debug\netcoreapp3.1\grading students.runtimeconfig.json
+C:\Users\Murad\Desktop\Tasks c#\grading students\grading students\bin\Debug\netcoreapp3.1\grading students.runtimeconfig.dev.json
+C:\Users\Murad\Desktop\Tasks c#\grading students\grading students\bin\Debug\netcoreapp3.1\grading students.dll
+C:\Users\Murad\Desktop\Tasks c#\grading students\grading students\bin\Debug\netcoreapp3.1\grading students.pdb
+C:\Users\Murad\Desktop\Tasks c#\grading students\grading students\obj\Debug\netcoreapp3.1\grading students.csproj.AssemblyReference.cache
+C:\Users\Murad\Desktop\Tasks c#\grading students\grading students\obj\Debug\netcoreapp3.1\grading students.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Murad\Desktop\Tasks c#\grading students\grading students\obj\Debug\netcoreapp3.1\grading students.AssemblyInfoInputs.cache
+C:\Users\Murad\Desktop\Tasks c#\grading students\grading students\obj\Debug\netcoreapp3.1\grading students.AssemblyInfo.cs
+C:\Users\Murad\Desktop\Tasks c#\grading students\grading students\obj\Debug\netcoreapp3.1\grading students.csproj.CoreCompileInputs.cache
+C:\Users\Murad\Desktop\Tasks c#\grading students\grading students\obj\Debug\netcoreapp3.1\grading students.dll
+C:\Users\Murad\Desktop\Tasks c#\grading students\grading students\obj\Debug\netcoreapp3.1\grading students.pdb
+C:\Users\Murad\Desktop\Tasks c#\grading students\grading students\obj\Debug\netcoreapp3.1\grading students.genruntimeconfig.cache
